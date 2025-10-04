@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Beyza Rabia</h1>
 <h3 align="center">Computer Programmer || Web Designer & Programmer</h3>
 
-- 🔭 I’m currently working on **PHP, C#, JAVA(Beginner)**
+- 🔭 I’m currently working and learning  **C#**
 
-- 🌱 I’m currently learning **JS, PHP, C#**
+- 👯 I’m looking to collaborate on **C#**
 
-- 👯 I’m looking to collaborate on **PHP**
-
-- 🤝 I’m looking for help with **C#, .Net Platform Application, JAVA**
+- 🤝 I’m looking for help with **C#, .Net Platform Application**
 
 - 📫 How to reach me **beyzarabiakilicaslan@gmail.com**
 

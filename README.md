@@ -35,7 +35,7 @@
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=beyzabrkla&theme=dark&show_icons=true" height="170" />
   <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=beyzabrkla&theme=dark&hide_border=false&force_and_color=true" alt="Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=beyzabrkla&theme=dark&v=2" alt="Streak Stats" />
  <br/>
  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=beyzabrkla&theme=dark&layout=compact" height="170" />
 </p>
@@ -44,7 +44,7 @@
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=beyzabrkla&repo=TraversalProjeCore&theme=dark" />
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=beyzabrkla&theme=radical&rank=SSS,SS,S,A,B" alt="Trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=beyzabrkla&theme=github-dark" width="100%" />
 <br/>
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />

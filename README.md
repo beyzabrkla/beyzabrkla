@@ -33,26 +33,23 @@
 # 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=beyzabrkla&theme=dark&show_icons=true&display_format=svg" alt="Stats Card" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=beyzabrkla&theme=dark&show_icons=true" height="170" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beyzabrkla&theme=dark" alt="Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzabrkla&theme=dark&layout=compact" alt="Top Langs" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=beyzabrkla&theme=dark&date_format=M%20j%5B%2C%20Y%5D&cache_bust=123" alt="Streak Stats" />
+ <br/>
+ <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=beyzabrkla&theme=dark&layout=compact" height="170" />
 </p>
 
 ### 🔝 Top Contributed Repo
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=beyzabrkla&repo=TraversalProjeCore&theme=dark" alt="Top Repo" />
-
-### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=beyzabrkla&repo=TraversalProjeCore&theme=dark" />
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=beyzabrkla&theme=radical" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=beyzabrkla&theme=radical&no-bg=true&margin-w=15&unique=456" alt="Trophies" />
+### ✍️ Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=beyzabrkla&icon=0&color=6" alt="Visitor Count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=beyzabrkla&color=blueviolet" alt="Visitor Count" />
 </p>

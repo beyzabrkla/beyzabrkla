@@ -31,19 +31,28 @@
  </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=beyzabrkla&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=beyzabrkla&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=beyzabrkla&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=beyzabrkla&theme=dark&show_icons=true&display_format=svg" alt="Stats Card" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beyzabrkla&theme=dark" alt="Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzabrkla&theme=dark&layout=compact" alt="Top Langs" />
+</p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=beyzabrkla&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=beyzabrkla&repo=TraversalProjeCore&theme=dark" alt="Top Repo" />
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=beyzabrkla&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=beyzabrkla&theme=radical" alt="Trophies" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=beyzabrkla&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=beyzabrkla&icon=0&color=6" alt="Visitor Count" />
+  </a>
+</p>

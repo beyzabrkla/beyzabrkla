@@ -34,8 +34,6 @@
 
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=beyzabrkla&theme=dark&show_icons=true" height="170" />
-  <br/>
-
  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=beyzabrkla&theme=dark&layout=compact" height="170" />
 </p>
 

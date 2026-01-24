@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beyza R.</h1>
-<h3 align="center">Computer Programmer || Web Designer & Programmer</h3>
+<h3 align="center">Computer Programmer || Software Developer & Programmer</h3>
 
 - 🔭 I’m currently working and learning  **C#**
 

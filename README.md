@@ -39,8 +39,7 @@
 </p>
 
 ### 🔝 Top Contributed Repo
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=beyzabrkla&repo=TraversalProjeCore&theme=dark" />
-
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=beyzabrkla&repo=Project2IdentityEmail&theme=dark" />
 ### 🏆 GitHub Trophies
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=beyzabrkla&theme=github-dark" width="100%" />
 <br/>

@@ -44,12 +44,6 @@
   <img src="https://img.shields.io/badge/mysql-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-**Version Control & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-
 ### 📊 GitHub Stats:
 
 <p align="left">

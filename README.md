@@ -40,7 +40,6 @@
   <img src="https://img.shields.io/badge/Repository%20Pattern-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Dependency%20Injection-yellowgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ### 📊 GitHub Stats:

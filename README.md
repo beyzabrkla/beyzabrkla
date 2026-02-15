@@ -54,9 +54,11 @@
 ### 🔝 Top Contributed Repo
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=beyzabrkla&repo=Project2IdentityEmail&theme=dark" />
 
-###  🏆 GitHub Trophies
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=beyzabrkla&theme=github-dark" width="100%" />
-<br/>
+### 🟩 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=beyzabrkla&show_icons=true&theme=dark&hide_border=true&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzabrkla&theme=dark&hide_border=true&layout=compact" width="300" />
+</p>
 
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />

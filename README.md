@@ -10,7 +10,15 @@
 - 📫 How to reach me **beyzarabiakilicaslan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://www.linkedin.com/in/beyzarkilicaslan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" style="display:inline-block !important;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/beyzabrkla" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" style="display:inline-block !important;" /></a></p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/beyzarkilicaslan" target="_blank">
+    <img align="left" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="35" style="margin-right: 10px;" />
+  </a>
+  <a href="https://instagram.com/beyzabrkla" target="_blank">
+    <img align="left" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="35" />
+  </a>
+</p>
+<br clear="left"/>
 
 ### 🛠️ Languages and Tools
 

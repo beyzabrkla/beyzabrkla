@@ -14,9 +14,6 @@
   <a href="https://www.linkedin.com/in/beyzarkilicaslan" target="_blank">
     <img align="left" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="35" style="margin-right: 10px;" />
   </a>
-  <a href="https://instagram.com/beyzabrkla" target="_blank">
-    <img align="left" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="35" />
-  </a>
 </p>
 <br clear="left"/>
 

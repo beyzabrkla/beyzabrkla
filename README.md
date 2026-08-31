@@ -52,11 +52,6 @@
  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=beyzabrkla&theme=dark&layout=compact" height="170" />
 </p>
 
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beyzabrkla&theme=react-dark&area=true&hide_border=true" width="100%" />
-</p>
-
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 

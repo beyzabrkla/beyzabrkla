@@ -60,11 +60,6 @@
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
-### 📌 Highlighted Project
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=beyzabrkla&repo=Project2IdentityEmail&theme=radical" />
-</p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=beyzabrkla&color=blueviolet" alt="Visitor Count" />
